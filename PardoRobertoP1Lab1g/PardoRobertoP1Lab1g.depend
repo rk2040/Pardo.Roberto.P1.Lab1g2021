@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1635506787 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1635506785 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\destino.h
+
+1635456523 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"micro.h"
+	"tipo.h"
+
+1635456523 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\empresa.h
+
+1635456523 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1635553451 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"empresa.h"
+	"micro.h"
+
+1635552435 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\tipo.h
+
+1635456523 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1635456523 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\utn.h
+
+1635549858 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"dataWarehouse.h"
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"viaje.h"
+	"destino.h"
+	"fecha.h"
+	"chofer.h"
+
+1635554011 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\micro.h
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+
+1635456523 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\fecha.h
+
+1635547025 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\viaje.h
+	"fecha.h"
+	"destino.h"
+	"micro.h"
+
+1635456523 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\datawarehouse.h
+	"micro.h"
+	"viaje.h"
+
+1635547171 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\datawarehouse.c
+	<string.h>
+	"dataWarehouse.h"
+	"micro.h"
+	"destino.h"
+	"viaje.h"
+	"chofer.h"
+
+1635549979 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\micro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+
+1635547002 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\viaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"viaje.h"
+	"fecha.h"
+	"micro.h"
+	"destino.h"
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+
+1635548638 d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\chofer.h
+
+1635546423 source:d:\utn\prog i  lab i\ejercicios de clases classroom\pardorobertop1lab1g\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chofer.h"
+	"micro.h"
+
